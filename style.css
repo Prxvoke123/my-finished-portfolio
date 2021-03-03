@@ -1,0 +1,39 @@
+h1 {
+    color: #a52a2a;
+    border:dashed #000000
+}
+
+.cool{
+background-color: #f0ffff;
+display:flex;
+justify-content: space-between;
+}
+
+.square{
+display:flex;
+justify-content:space-evenly ;
+flex-wrap:wrap
+
+
+}
+
+.circle{
+display:flex;
+justify-content:flex-end ;
+
+}
+
+p,h2{
+text-align: center;
+
+}
+
+h2{
+text-decoration:underline ;
+letter-spacing:3px
+}
+
+p{
+opacity:1
+
+}
